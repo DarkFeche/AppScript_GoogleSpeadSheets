@@ -1,4 +1,5 @@
-Google Sheets Apps Script Repository
+**Google Sheets Apps Script Repository**
+
 This repository is a collection of custom functions designed to supercharge Google Sheets. My main focus is on web scraping to gather live data, performing complex calculations, and creating automated backups to ensure data integrity for long-term analysis and decision-making.
 
 The scripts within this collection range from simple onOpen triggers to complex automation tasks linked to daily time-based triggers. While this started as a scattered collection of solutions, I am currently refactoring the code into a more modular and reusable structure to improve scalability and maintenance.
