@@ -5,6 +5,7 @@ This repository is a **collection** of custom functions designed to supercharge 
 The scripts within this collection range from **simple onOpen triggers to complex automation tasks** linked to daily time-based triggers. While this started as a scattered collection of solutions, I am currently refactoring the code into a more modular and reusable structure to improve scalability and maintenance.
 
 --
+
 **Repositorio de Funciones Apps Script para Google Sheets (ES-AR)**
 Este repositorio es una colección de funciones personalizadas diseñadas para darle superpoderes a las planillas de Google. Mi enfoque principal está en el web scraping para recolectar datos en vivo, realizar cálculos complejos y generar backups automáticos que aseguren la integridad de la información para análisis a largo plazo y toma de decisiones.
 
