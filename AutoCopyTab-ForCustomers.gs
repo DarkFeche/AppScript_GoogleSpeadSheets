@@ -1,13 +1,11 @@
 /**
- * GESTOR DE COPIADO PARA PLANTILLAS DISTRIBUIBLES
- * -----------------------------------------------
- * Este script utiliza 'Nombres de Rango' en lugar de IDs fijos.
- * Esto asegura que cuando un usuario haga "Archivo > Hacer una copia",
- * el script siga funcionando sin necesidad de configurar nada.
- * 
- * Gracias por utilizar nuestros servicios 
- * 
- * - VendeMasSoluciones
+ * COPY MANAGER FOR DISTRIBUTABLE TEMPLATES
+ * ----------------------------------------
+ * This script uses 'Named Ranges' instead of fixed IDs.
+ * This ensures that when a user selects "File > Make a copy",
+ * the script remains functional with no further configuration required.
+ * * Thank you for using our services
+ * * - VendeMasSoluciones
  */
 
 // --- ⚙️ CONFIGURACIÓN ---
